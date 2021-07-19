@@ -11,3 +11,7 @@ __Skills:__
  * JavaScript
  * Git
  * Visual Studio
+
+__Language:__
+ * Russian (Native)
+ * English (A1, Beginner)
