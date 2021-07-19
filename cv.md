@@ -1,1 +1,2 @@
-https://DenisTyrkov.github.io/rsschool-cv/cv
+# Denis Tyrkov
+## Trainee JavaScript Developer
